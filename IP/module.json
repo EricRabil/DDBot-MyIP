@@ -1,0 +1,9 @@
+{
+    "identifier": "com.ericrabil.ip",
+    "main": "ip.js",
+    "commands": {
+        "directory": "Commands",
+        "group": "Utilities"
+    },
+    "name": "Bot IP Module"
+}
